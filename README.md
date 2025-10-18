@@ -1,4 +1,4 @@
-# Pyhon Projects
+# Python Projects
 
 # 🐍 Python Data Science and Engineering Projects
 
