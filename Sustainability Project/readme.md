@@ -33,7 +33,7 @@ The core output of this project is a comparative visualization that delivers the
 
 ## Technologies Used 💻
 
-This analysis is built entirely using the Python data science stack, ensuring robust and reproducible results.
+This analysis is built entirely using the Python data analysis stack, ensuring robust and reproducible results.
 
 | Tool | Purpose | Icon |
 | :--- | :--- | :--- |
