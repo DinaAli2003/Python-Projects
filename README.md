@@ -66,4 +66,5 @@ I am actively seeking opportunities to apply my programming, data analysis, and 
 * **Portfolio**: [https://portfolio-dina.lovable.app/]
 * **Email**: [dinaelharedy00@gmail.com]
 * **Linkedin**: [https://bit.ly/4hDJguP]
+  
 Thank you for your review. I welcome any questions or constructive feedback on the projects presented here!
