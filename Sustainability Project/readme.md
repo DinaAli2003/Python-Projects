@@ -47,7 +47,7 @@ This analysis is built entirely using the Python data analysis stack, ensuring r
 🚀 Access the Dashboard
 The live dashboard is hosted on Streamlit Cloud and can be accessed here:
 
-➡️ [https://sustainability-dashboard-c9huhdudy3xhfhktvvvzsw.streamlit.app/] 
+➡️ [https://sustainability-dashboard-x0mm4vwmxzd.streamlit.app/] 
 
 
 Enjoy exploring the data\! If you have any questions or suggestions, please feel free to reach out. Happy analyzing\! 💡
