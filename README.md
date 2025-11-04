@@ -40,7 +40,7 @@ To explore and run the analysis or scripts in this repository, you'll need **Pyt
 1.  **Get the Code** ⬇️
     Start by cloning this repository to your local machine using Git:
     ```bash
-    git clone [Your Repository URL]
+    git clone [ Repository URL]
     ```
 
 2.  **Choose a Project** 📂
