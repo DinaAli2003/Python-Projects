@@ -39,9 +39,12 @@ This analysis is built entirely using the Python data analysis stack, ensuring r
 | :--- | :--- | :--- |
 | **Python** (via Jupyter) | The core programming language for the analysis. | 🐍 |
 | **Pandas** | Essential for data loading, cleaning, manipulation, and melting (reshaping). | 🐼 |
-| **NumPy** | Provides support for large, multi-dimensional arrays and high-level mathematical functions. | |
+| **NumPy** | Provides support for large, multi-dimensional arrays and high-level mathematical functions. | 🔢 |
 | **Seaborn & Matplotlib** | Used for creating aesthetically pleasing and informative visualizations, including the multi-metric bar chart. | 🎨 |
 
+---
+
+Would you like to continue building out the rest of your `README` file based on the template I provided earlier?
 -----
 
 
