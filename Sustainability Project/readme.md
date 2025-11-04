@@ -44,35 +44,11 @@ This analysis is built entirely using the Python data analysis stack, ensuring r
 
 -----
 
-## Getting Started 🚀
 
-To run this analysis on your local machine, follow these simple steps.
+🚀 Access the Dashboard
+The live dashboard is hosted on Streamlit Cloud and can be accessed here:
 
-### Prerequisites
+➡️ [https://sustainability-dashboard-c9huhdudy3xhfhktvvvzsw.streamlit.app/] 
 
-You'll need **Python 3.x** installed, along with the required libraries.
-
-```bash
-# We recommend using a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\activate
-
-# Install the necessary packages
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Running the Notebook
-
-1.  **Clone the Repository** (assuming this project is in a repository):
-    ```bash
-    git clone [your_repo_url]
-    cd sustainability-metrics-analysis
-    ```
-2.  **Start Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-3.  Open the file named **`Sustainability Project.ipynb`** in your browser.
-4.  Run the cells sequentially (or select **Cell** -\> **Run All**) to execute the entire analysis and generate the final visualization.
 
 Enjoy exploring the data\! If you have any questions or suggestions, please feel free to reach out. Happy analyzing\! 💡
