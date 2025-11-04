@@ -1,6 +1,6 @@
 # Python Projects
 
-# 🐍 Python Data Science and Engineering Projects
+# 🐍 Python Data Analysis  Projects
 
 This repository is a comprehensive portfolio showcasing my practical projects built using **Python**. It focuses on solving real-world business problems through data manipulation, statistical analysis,extracting insights and Buliding Visualizations.
 
